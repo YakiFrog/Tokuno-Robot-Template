@@ -8,10 +8,11 @@
 
 ## 使い方
 Github右上のCodeボタンからZIPでダウンロードするか，
+
+任意のフォルダ内で，下記のコマンドを打つ．
 ```
- git clone
+ git clone　https://github.com/YakiFrog/Tokuno-Robot-Template.git
 ```
-上記のコマンドで自分のパソコンの任意の場所に持ってくる．
 
 1. VSCodeを開く
 2. PlatformIOを開く
